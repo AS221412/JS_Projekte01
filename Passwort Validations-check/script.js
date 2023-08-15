@@ -1,7 +1,7 @@
 let is_visible = false;
 
 
-//Funktion um das Passwort scihtbar zu machen
+//Funktion um das Passwort sichtbar zu machen
 function see() {
   let input = document.getElementById("password");
   let see = document.getElementById("see");
